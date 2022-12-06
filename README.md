@@ -1,4 +1,4 @@
-degdan2004.github.io
+
 
 Degtyarev.py- база данных, не доделанный вариант
 
